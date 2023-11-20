@@ -1134,7 +1134,6 @@ namespace RaymondCharlesClientMT
             return tabStats;
         }
     }
-    //************************
 
 
     //Exception
